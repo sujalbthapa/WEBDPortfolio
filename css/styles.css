@@ -206,6 +206,7 @@ header.shadow {
   padding: 20px;
   background: darkslategray;
   text-align: center;
+  z-index:1000;
   color: #fff;
 }
 
@@ -253,7 +254,7 @@ header.shadow {
   .social{
     flex-direction: row;
     justify-content: space-between;
-    margin-right: 10px;
+    margin-right: 20px;
 
   }
   .btn{
